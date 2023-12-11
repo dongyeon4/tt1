@@ -1,0 +1,2 @@
+matpiotlib==3.7.1
+stremlit==1.26.0
